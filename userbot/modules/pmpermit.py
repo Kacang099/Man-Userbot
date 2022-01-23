@@ -20,7 +20,7 @@ from userbot.utils import edit_delete, edit_or_reply
 
 DEF_UNAPPROVED_MSG = (
     "╔═══════════════════╗\n" 
-    " 🤖 INI BOT KACANG YGY🤖\n" 
+    "🥜 INI BOT KACANG YGY 🥜\n" 
     "╚═══════════════════╝\n" 
     "• Biasakan Salam Jangan P P kaya Atheis\n" 
     "• Jangan Spam Ntar Di Blok Nangis\n" 
