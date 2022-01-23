@@ -19,14 +19,14 @@ from userbot.events import man_cmd, register
 from userbot.utils import edit_delete, edit_or_reply
 
 DEF_UNAPPROVED_MSG = (
-    "╔════════════════════╗\n"
-    "     ⛑ 𝗔𝗧𝗧𝗘𝗡𝗧𝗜𝗢𝗡 𝗣𝗟𝗘𝗔𝗦𝗘 ⛑\n"
-    "╚════════════════════╝\n"
-    "• Saya belum menyetujui anda untuk PM.\n"
-    "• Tunggu sampai saya menyetujui PM anda.\n"
-    "• Jangan Spam Chat atau anda akan otomatis diblokir.\n"
-    "╔════════════════════╗\n"
-    "    𝗣𝗲𝘀𝗮𝗻 𝗢𝘁𝗼𝗺𝗮𝘁𝗶𝘀 𝗕𝘆 -𝗨𝘀𝗲𝗿𝗕𝗼𝘁\n"
+    "╔═══════════════════╗\n" 
+    " 🤖 INI BOT KACANG YGY🤖\n" 
+    "╚═══════════════════╝\n" 
+    "• Biasakan Salam Jangan P P kaya Atheis\n" 
+    "• Jangan Spam Ntar Di Blok Nangis\n" 
+    "• Kalo Ga Dibales Ya Sabar Tangan Kacang Cuma 2\n" 
+    "╔════════════════════╗\n" 
+    "𝗣𝗲𝘀𝗮𝗻 𝗢𝘁𝗼𝗺𝗮𝘁𝗶𝘀 - BOT KACANG\n" 
     "╚════════════════════╝\n"
 )
 
