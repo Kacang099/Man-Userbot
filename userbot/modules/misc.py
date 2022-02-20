@@ -121,10 +121,10 @@ async def repo_is_here(event):
     await xx.edit(
                    f"​╰⎆Halo Saya Adalah Kacang-Userbot🕹\n"
                    f"❏Owner​    ⎆ Tuan Muda Kacang🇮🇩\n"
-                   f"❏Channel ⎆ [Malesin](t.me/asyudhlhhhh)\n"
+                   f"❏Channel ⎆ [Malesin](https://t.me/carikawansiaran)\n"
                    f"❏Group    ⎆ [Cari Kawan](t.me/ckbersama)\n"
                    f"                  ⎆ [Teman Telegram ID](https://t.me/temantelegram_id)\n"
-                   f"                  ⎆ [GoodVibes Mutualan](https://t.me/vibesmutualanyu)\n"
+                   f"                  ⎆ [GoodVibes Mutualan](https://t.me/friendstelegramnesia)\n"
     )
 
 
