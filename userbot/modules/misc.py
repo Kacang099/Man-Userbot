@@ -123,8 +123,8 @@ async def repo_is_here(event):
                    f"❏Owner​    ⎆ Tuan Muda Kacang🇮🇩\n"
                    f"❏Channel ⎆ [carikawansiaran](https://t.me/carikawansiaran)\n"
                    f"❏Group    ⎆ [Cari Kawan](t.me/ckbersama)\n"
-                   f"                  ⎆ [Teman Telegram ID](https://t.me/temantelegram_id)\n"
-                   f"                  ⎆ [friendstelegramnesia](https://t.me/friendstelegramnesia)\n"
+                   
+                   
     )
 
 
