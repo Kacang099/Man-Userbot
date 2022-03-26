@@ -122,7 +122,7 @@ async def repo_is_here(event):
                    f"​╰⎆Halo Saya Adalah Kacang-Userbot🕹\n"
                    f"❏Owner​    ⎆ Tuan Muda Kacang🇮🇩\n"
                    f"❏Channel ⎆ [carikawansiaran](https://t.me/carikawansiaran)\n"
-                   f"❏Group    ⎆ [Cari Kawan](t.me/ckbersama)\n"
+                   f"❏Group    ⎆ [Cari Kawan](https://t.me/sokincarikawan)\n"
                    
                    
     )
